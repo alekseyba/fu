@@ -24,7 +24,7 @@ print(colored('''
 ''','yellow'))
 print(colored('''
 С ВАМИ БЫЛ МАЙКУХА ГОЛДИ, СОФТ НА ГИТХАБЕ ССЫЛКУ В ЛС СКИНУ
-''','ping'))
+''','pink'))
 
 phone = input('Phone Number (Format +7999999999 / +380999999999')
 
